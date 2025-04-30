@@ -15,3 +15,13 @@ $A <= string <= Z$
 
 # Output Format
 Hasil dekripsi dari string
+
+# Sample Input
+```
+7
+AOYVBNO AOL LCVSBAPVU AOL NHSHEF BUMVSKLK
+```
+# Sample Output
+```
+THROUGH THE EVOLUTION THE GALAXY UNFOLDED
+```
