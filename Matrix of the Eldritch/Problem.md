@@ -12,3 +12,18 @@ $0 <= Matriks[3][3] <= 1000$
 
 # Output Format
 Sebuah string **Yuki** apabila Yuki pemenangnya, **Yuzu** sebaliknya, dan **Seri** apabila skor mereka sama.
+
+# Sample Input
+```
+1 2 3
+4 5 6
+7 8 9
+
+2 4 6
+8 9 10
+11 12 13
+```
+# Sample Output
+```
+Yuzu
+```
