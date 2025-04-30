@@ -12,3 +12,14 @@ $1 <= N, T <= 1000$
 
 # Output Format
 Dua buah integer  $r1$ dan $r2$ dipisahkan oleh spasi
+
+# Sample Input
+```
+5 10
+1 9 2 5 3
+```
+
+# Sample Output
+```
+1 9
+```
