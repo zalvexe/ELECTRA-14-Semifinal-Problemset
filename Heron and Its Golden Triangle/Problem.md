@@ -16,3 +16,12 @@ $1 <= a,b,c <= 1000$
 
 # Output Format
 Sebuah integer dengan **1 floating point** menyatakan luas dari segitiga
+
+# Sample Input
+```
+5 6 9
+```
+# Sample Output
+```
+14.1
+```
