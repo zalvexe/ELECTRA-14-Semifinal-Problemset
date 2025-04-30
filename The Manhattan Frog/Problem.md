@@ -10,3 +10,13 @@ $0 <= n,m,a,b <= 10000$
 
 # Output Format 
 Sebuah integer menunjukkan jarak yang harus Ppoki lalui
+
+# Sample Input
+```
+2 6
+5 2
+```
+# Sample Output
+```
+7
+```
