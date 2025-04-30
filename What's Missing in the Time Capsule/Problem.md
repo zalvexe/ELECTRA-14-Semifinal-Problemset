@@ -15,3 +15,13 @@ $1 <= m <= 100$ <br>
 
 # Output Format
 Sebuah integer menunjukkan angka yang hilang dari deret bilangan
+
+# Sample Input
+```
+10 4
+2 6 10 14 22 26 30 34 38
+```
+# Sample Output
+```
+18
+```
