@@ -16,3 +16,13 @@ $1 <= N <= 100000000$
 
 # Output Format
 **True** jika $N$ berada dalam deret Fibonacci dan **False** jika sebaliknya
+
+# Sample Input
+```
+21 10946
+```
+
+# Sample Output
+```
+True
+```
