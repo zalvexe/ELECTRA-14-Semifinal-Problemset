@@ -13,3 +13,12 @@ $1 <= Z, L, O <= 10000$
 
 # Output Format
 Sebuah integer menunjukkan jumlah hari yang dibutuhkan untuk planet sejajar kembali.
+
+# Sample Input
+```
+9 3 2
+```
+# Sample Output
+```
+18
+```
