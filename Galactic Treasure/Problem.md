@@ -18,3 +18,15 @@ $k <= N$
 
 # Output Format
 Sebuah integer menyatakan nilai permata terbesar ke-*k*
+
+# Sample Input
+```
+7
+82 94 116 23 251 87 3
+3
+```
+
+# Sample Output
+```
+94
+```
